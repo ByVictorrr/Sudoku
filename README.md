@@ -1,6 +1,10 @@
 # Sudoku
 ## This is a command line interface c++ sudoku game.
 
+![one](https://github.com/ByVictorrr/Sudoku/blob/master/images/screenshot1.png) ![two](https://github.com/ByVictorrr/Sudoku/blob/master/images/screenshot1.png) ![three](https://github.com/ByVictorrr/Sudoku/blob/master/images/screenshot1.png) 
+
+![four](https://github.com/ByVictorrr/Sudoku/blob/master/images/screenshot1.png) ![five](https://github.com/ByVictorrr/Sudoku/blob/master/images/screenshot1.png)
+
 ### Conclusion:
 
 In this project I have learned that functions are just compacted blocks of code. This helped me to use my time wisely building the program. I really like how this challenged me and finally I have finished. Making one variable a place holder for all the over games was my first intention. When my friend told me I could just use a .csv file to export the arrays I just typed in. This was a stupid mistake on my part. But then made my code little more easy for you to read making a class just for those big arrays so I didn't have any global variables. This program wasn't to challenging because I started on it when i got the program instructions. This challenged my brain to think about how to think logically. It also made me go back from my actual code and code reduce and just reuse the functions I make. I learned a lot about bool functions which I didn't know they come in so handy.
