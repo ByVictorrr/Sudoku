@@ -4,9 +4,9 @@
 #include <fstream>
 #include <cmath>
 #include "Instructions.hpp"
-#include "Sudoku.hpp"
+#include "Suduko.hpp"
 
-#pragma once
+//#pragma once
 
 
 using namespace std;
